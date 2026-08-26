@@ -2,6 +2,12 @@
 
 A responsive weather dashboard that displays real-time weather information for cities around the world using the **Open-Meteo API**.
 
+## 🌐 Live Demo
+
+You can view the live Weather Dashboard here:
+
+https://anubhav07-hub135.github.io/Weather-Dashboard/
+
 ## 🚀 Features
 
 * Search weather by city name
